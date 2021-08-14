@@ -13,7 +13,6 @@ library(rpart.plot)
 library(wordcloud2)
 library(tidytext)
 library(stringr)
-library(tm)
 
 
 filePath <- getwd()
