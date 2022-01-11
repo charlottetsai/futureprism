@@ -1,1 +1,1 @@
-In this project, we used Shiny app to develop a dashboard of Foreign Worker Job Analysis.
+In this project, we used Shiny app to develop a dashboard, skll matching and salary prediction of Foreign Workers.
